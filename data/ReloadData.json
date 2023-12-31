@@ -1,0 +1,16 @@
+{
+    "been": [{
+        "haveBeen": true,
+        "name": "XYZ",
+        "rating": 2,
+        "cuisine": "Asian",
+        "location": "Vancouver"
+    }],
+    "notbeen": [{
+        "haveBeen": false,
+        "name": "ABC",
+        "rating": 3,
+        "cuisine": "Western",
+        "location": "Burnaby"
+    }]
+}

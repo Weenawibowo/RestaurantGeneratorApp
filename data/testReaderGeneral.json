@@ -1,0 +1,16 @@
+{
+  "been": [{
+    "haveBeen": true,
+    "name": "ABC Restaurant",
+    "rating": 4,
+    "cuisine": "Asian",
+    "location": "Vancouver"
+  }],
+  "notbeen": [{
+    "haveBeen": false,
+    "name": "CDE Restaurant",
+    "rating": 3,
+    "cuisine": "Western",
+    "location": "Burnaby"
+  }]
+}
